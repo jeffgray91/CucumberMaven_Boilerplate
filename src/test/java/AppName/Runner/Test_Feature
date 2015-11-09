@@ -1,0 +1,5 @@
+Feature: Going to Google
+
+  Scenario: Typing into the search Field
+    Given I type the word "search" in the search field
+    And I click enter to search
